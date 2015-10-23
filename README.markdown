@@ -1,5 +1,7 @@
 # Adventure!
 
+[![Join the chat at https://gitter.im/creationix/adventure](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/creationix/adventure?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Adventure is a proof of concept of making a massive real-time game in node.js.  The backend database is custom coded for this specific use case and is available at <http://github.com/creationix/world-db>
 
 The communication is using websockets with fallbacks (powered by socket.io).  I have tested the game on Firefox 3.6, 4.0, Chrome 6, 7, Safari 5, Mobile Safari and Android browser.
